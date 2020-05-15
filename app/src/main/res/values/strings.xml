@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppHider3</string>
+
+    <integer name="btnPlusView">1</integer>
+    <integer name="btnPlusPos">2</integer>
+
+
+</resources>
